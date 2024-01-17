@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Headland+One&family=Poppins:wght@100&display=swap');
+
+
+.define{
+    font-family: "Poppins-ExtraLight",Helvetica;
+    margin-top: 100px;
+    color: #e4d48c;
+    
+}
+
+@font-face {
+    font-family: "poppins-Extralight";
+    src: url('./poppins.ttf');
+  }

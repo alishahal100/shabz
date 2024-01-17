@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Headland+One&family=Poppins:wght@100&display=swap');
+
+
+.craft{
+    font-family: "Poppins-ExtraLight",Helvetica;
+
+    margin-top: 180px;
+    color: #e4d48c;
+    
+}
+
+@font-face {
+    font-family: "poppins-extralight";
+    src: url('./poppins.ttf');
+  }

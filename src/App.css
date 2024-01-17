@@ -1,0 +1,28 @@
+
+
+body{
+  background: #1E1C1C;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.layer {
+  height: 47px;
+  overflow: hidden;
+  position: relative;
+  width: 173px;
+}
+
+.layer .group-layer {
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 33px;
+  width: 138px;
+}
+
+.layer .img {
+  height: 29px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 173px;
+}
